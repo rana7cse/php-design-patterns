@@ -1,0 +1,20 @@
+{
+    "name": "msrana/design-pattern-in-php",
+    "authors": [
+        {
+            "name": "Salauddin Rana",
+            "email": "rana7cse@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\" : "src/"
+        }
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^5.2"
+    },
+    "require": {
+        "fzaninotto/faker": "^1.9"
+    }
+}
